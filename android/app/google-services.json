@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "848851721428",
+    "project_id": "solespace-2e82f",
+    "storage_bucket": "solespace-2e82f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848851721428:android:908dfd895c31869d866f41",
+        "android_client_info": {
+          "package_name": "com.example.sole_space_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2s6m50j13DM2lXZymLy-KtqFm3xc-6gE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
